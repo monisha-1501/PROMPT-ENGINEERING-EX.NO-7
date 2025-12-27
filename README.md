@@ -1,7 +1,7 @@
-# Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
+ Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-# Date:
-# Register no.
+# Date: 17/12/2025
+# Register no. 25007487
 # Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
 #AI Tools Required: 
@@ -16,10 +16,11 @@ Procedure:
 3. Simulate natural user interaction through a simple interface or command-line system.
 4. Collect feedback or inputs from users and adapt responses accordingly.
 5. (Optional) Integrate basic memory to simulate preference adaptation.
-EXPECTED OUTPUT: - (attached the drive link)
-Output (Example Response by LLM):
+EXPECTED OUTPUT: https://in.docworkspace.com/d/sIAjBh7_HAqCmvsoG?sa=601.1037
+Output (Example Response by LLM): [Monisha D - exp 7.pdf](https://github.com/user-attachments/files/24353447/Monisha.D.-.exp.7.pdf)
 Personal Productivity Assistant Features:
 1. Daily Task Manager:
+
 o Accept tasks via natural language (e.g., "Remind me to call mom at 6 PM").
 o Organize tasks by priority and deadline.
 o Provide daily summaries and pending items.
